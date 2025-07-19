@@ -1,5 +1,5 @@
 {
-  "name": "Dreame Vacuum",
+  "name": "Dreame Vacuum Dev",
   "render_readme": false,
   "homeassistant": "2023.6.0",
   "filename": "dreame_vacuum_dev.zip"
