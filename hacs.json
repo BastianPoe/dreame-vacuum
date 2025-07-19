@@ -3,5 +3,5 @@
   "render_readme": false,
   "homeassistant": "2023.6.0",
   "zip_release": true,
-  "filename": "dreame_vacuum.zip"
+  "filename": "dreame_vacuum_dev.zip"
 }
